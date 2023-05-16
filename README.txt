@@ -14,7 +14,15 @@ Non-federated CNN for Image Classification
 paper code:
 https://colab.research.google.com/drive/1knTzkQjB3j3B95f0V4JBV_8HQ-YPX2M0?usp=sharing
 
- 
+Conference Name:
+IEEE CSDE 2023
+
+Paper submission URL:
+https://ieee-csde.org/csde2023/nps-profile/?action=list
+
+Conference Submission Date: 
+16 May, 2023
+
 Group Number:
 15
 
